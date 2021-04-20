@@ -1,4 +1,4 @@
-#function to print the password as organisation policy -- upper,lower,number, special charaters,
+
 #print(ord('a'))   - to print the ASCII value
 #print(chr(97))    - to print the character value of the ASCII
 
